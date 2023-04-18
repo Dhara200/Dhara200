@@ -1,6 +1,6 @@
-<h2 style="color: #44AEFB;"> 👨🏻‍💻 Dhara<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F502010689705461789%2F&psig=AOvVaw02uK-BFg4We64UJaME2q3r&ust=1681888422238000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDFmeXwsv4CFQAAAAAdAAAAABAD" width="50"></h2>
+<h2 style="color: #44AEFB;"> 👨🏻‍💻 Dhara<img src="" width="50"></h2>
 
-![github_cover_banner](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+![github_cover_banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F502010689705461789%2F&psig=AOvVaw02uK-BFg4We64UJaME2q3r&ust=1681888422238000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDFmeXwsv4CFQAAAAAdAAAAABAD)
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, Frontend web developer and computer science student. I love learning new programming languages and technologies. I also love to help people to learn programming.
